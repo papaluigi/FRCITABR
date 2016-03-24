@@ -6,9 +6,9 @@ job         : Junior Data Scientist
 framework   : io2012
 highlighter : highlight.js
 hitheme     : tomorrow
-url:
-    lib: ../../librariesNew #Remove new if using old slidify
-    assets: ../../assets
+#url:
+#    lib: ../../librariesNew #Remove new if using old slidify
+#    assets: ../../assets
 widgets     : [mathjax, quiz, bootstrap]
 ext_widgets : {rCharts: ["libraries/highcharts","libraries/nvd3", "libraries/morris", "libraries/leaflet", "libraries/rickshaw"]}
 #mode        : selfcontained # {standalone, draft}
